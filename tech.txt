@@ -1,0 +1,6 @@
+this file contains list of technology
+java
+python
+sequel
+perl
+
